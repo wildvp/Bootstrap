@@ -1,0 +1,178 @@
+<!-- CARDS-->
+
+
+
+
+         
+         <div class="row justify-content-sm-center">
+         
+         <!-- CARD 3 -->
+
+
+			<div class="col-sm-6 col-md-4">
+            	
+                <div class="card mb-5">
+                
+                	<img class="card-img-top" src="imagens/links_uteis_pessoal.fw.png" />
+                    
+                    	<div class="card-body">
+                       	  <h4 class="card-title">Contatos e outros</h4>
+                            <h6 class="card-subtitle mb-2 text-muted">Links para contato e cadastro</h6>
+                            <p class="card-text">Utilize os links abaixo para contato, cadastro ou acesso às áreas restritas</a></p>
+                            
+                  </div>
+                        
+                        <ul class="list-group list-group-flush">
+                        
+                        	<li class="list-group-item">Portfólio (em construção)</li>
+                            <li class="list-group-item">Cadastro (em construção)</li>
+                            <li class="list-group-item">Mensagem (e-mail)</li>
+                            <li class="list-group-item"><a href="https://www.linkedin.com/in/carloshenriquesilvamuniz/" target="_blank">Linkedin</a></li>
+                            <li class="list-group-item"><a href="https://www.facebook.com/ProfessorCarlosMuniz" target="_blank">Página (Facebook)</a></li>
+                            <li class="list-group-item"><a href="https://www.youtube.com/channel/UCx0zHh-g65yg0hzS1Fw3x5w" target="_blank">You tube</a></li>
+                            <li class="list-group-item"><a href="https://twitter.com/chsilvamuniz" target="_blank">Twitter</a></li>
+                            <li class="list-group-item"><a href="https://github.com/wildvp" target="_blank">Github (repositórios)</a></li>
+                            
+                          
+                            
+                        </ul>
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!--
+                            <p class="card-text"><a href="https://get.adobe.com/br/reader/" target="_blank">Adobe Reader</a></p>
+                            <p class="card-text"><a href="https://www.aida64.com/downloads" target="_blank">Aida 64</a></p>
+                            <p class="card-text"><a href="https://sourceforge.net/projects/wampserver/" target="_blank">Wamp Server</a></p>
+                            <p class="card-text"><a href="https://www.java.com/pt_BR/download/" target="_blank">Java</a></p>
+                            <p class="card-text"><a href="http://www.jcreator.org/download.htm" target="_blank">JCreator</a></p>
+                            <p class="card-text"><a href="https://netbeans.apache.org/download/index.html" target="_blank">Net beans</a></p>
+                            <p class="card-text"><a href="https://www.bloodshed.net/devpascal.html" target="_blank">Dev Pascal</a></p>
+                            <p class="card-text"><a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">Dev Cpp (C++)</a></p>
+                            -->
+ 
+                
+              </div>
+            
+            </div>
+         
+
+<!-- CARD 1-->
+         	
+            <div class="col-sm-6 col-md-4">
+            	
+                <div class="card mb-5">
+                
+                	<img class="card-img-top" src="imagens/links_uteis_ferramentas.fw.png" />
+                    
+                    	<div class="card-body">
+                       	  <h4 class="card-title">Links Úteis</h4>
+                            <h6 class="card-subtitle mb-2 text-muted">Links para ferramentas de estudo</h6>
+                            <p class="card-text">Utilize os links abaixo para acessar ferramentas importantes para seu computador</a></p>
+                            
+                        </div>
+                        
+                        <ul class="list-group list-group-flush">
+                        
+                        	<li class="list-group-item"><a href="https://get.adobe.com/br/reader/" target="_blank">Adobe Reader</a></li>
+                            <li class="list-group-item"><a href="https://www.aida64.com/downloads" target="_blank">Aida 64</a></li>
+                            <li class="list-group-item"><a href="https://sourceforge.net/projects/wampserver/" target="_blank">Dev Cpp (c++)</a></li>
+                            <li class="list-group-item"><a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">Dev Pascal</a></li>
+                            <li class="list-group-item"><a href="https://www.java.com/pt_BR/download/" target="_blank">Java</a></li>
+                            <li class="list-group-item"><a href="http://www.jcreator.org/download.htm" target="_blank">JCreator</a></li>
+                            <li class="list-group-item"><a href="https://netbeans.apache.org/download/index.html" target="_blank">Net Beans</a></li>
+                            <li class="list-group-item"><a href="https://sourceforge.net/projects/wampserver/" target="_blank">Wamp Server</a></li>
+                            
+                          
+                            
+                        </ul>
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!--
+                            <p class="card-text"><a href="https://get.adobe.com/br/reader/" target="_blank">Adobe Reader</a></p>
+                            <p class="card-text"><a href="https://www.aida64.com/downloads" target="_blank">Aida 64</a></p>
+                            <p class="card-text"><a href="https://sourceforge.net/projects/wampserver/" target="_blank">Wamp Server</a></p>
+                            <p class="card-text"><a href="https://www.java.com/pt_BR/download/" target="_blank">Java</a></p>
+                            <p class="card-text"><a href="http://www.jcreator.org/download.htm" target="_blank">JCreator</a></p>
+                            <p class="card-text"><a href="https://netbeans.apache.org/download/index.html" target="_blank">Net beans</a></p>
+                            <p class="card-text"><a href="https://www.bloodshed.net/devpascal.html" target="_blank">Dev Pascal</a></p>
+                            <p class="card-text"><a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">Dev Cpp (C++)</a></p>
+                            -->
+                 </div>
+            
+            </div>
+            
+            
+<!-- FIM CARD 1-->
+
+<!-- CARD2 -->
+
+
+			<div class="col-sm-6 col-md-4">
+            	
+                <div class="card mb-5">
+                
+                	<img class="card-img-top" src="imagens/links_uteis_concursos.fw.png" />
+                    
+                    	<div class="card-body">
+                       	  <h4 class="card-title">Links Úteis (Concursos)</h4>
+                            <h6 class="card-subtitle mb-2 text-muted">Links para procura de concursos</h6>
+                            <p class="card-text">Utilize os links abaixo para acessar locais de mais divulgação de concursos públicos</a></p>
+                            
+                        </div>
+                        
+                        <ul class="list-group list-group-flush">
+                        
+                        	<li class="list-group-item"><a href="https://folhadirigida.com.br/" target="_blank">Folha Dirigida</a></li>
+                            <li class="list-group-item"><a href="https://www.pciconcursos.com.br/" target="_blank">PCI Concursos</a></li>
+                            <li class="list-group-item"><a href="https://jcconcursos.uol.com.br/" target="_blank">Jornal dos Concursos</a></li>
+                            <li class="list-group-item"><a href="https://editalconcursosbrasil.com.br/" target="_blank">Edital Concursos</a></li>
+                            <li class="list-group-item"><a href="https://noticiasconcursos.com.br/" target="_blank">Notícias Concursos</a></li>
+                            <li class="list-group-item"><a href="https://noticiasconcursos.com.br/" target="_blank">Ache Concursos</a></li>
+                            <li class="list-group-item"><a href="https://noticiasconcursos.com.br/" target="_blank">Concursos no Brasil</a></li>
+                            <li class="list-group-item"><a href="https://www.novaconcursos.com.br/" target="_blank">Nova Concursos</a></li>
+                            
+                          
+                            
+                        </ul>
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!--
+                            <p class="card-text"><a href="https://get.adobe.com/br/reader/" target="_blank">Adobe Reader</a></p>
+                            <p class="card-text"><a href="https://www.aida64.com/downloads" target="_blank">Aida 64</a></p>
+                            <p class="card-text"><a href="https://sourceforge.net/projects/wampserver/" target="_blank">Wamp Server</a></p>
+                            <p class="card-text"><a href="https://www.java.com/pt_BR/download/" target="_blank">Java</a></p>
+                            <p class="card-text"><a href="http://www.jcreator.org/download.htm" target="_blank">JCreator</a></p>
+                            <p class="card-text"><a href="https://netbeans.apache.org/download/index.html" target="_blank">Net beans</a></p>
+                            <p class="card-text"><a href="https://www.bloodshed.net/devpascal.html" target="_blank">Dev Pascal</a></p>
+                            <p class="card-text"><a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank">Dev Cpp (C++)</a></p>
+                            -->
+ 
+                
+                </div>
+            
+            </div>        
+         
+         
+
+<!-- FIM 2 CARDS -->
+
+        
+         
+         
+
+<!-- FIM CARD 3 -->
+
+		</div>
+        
+<!-- fim cards-->

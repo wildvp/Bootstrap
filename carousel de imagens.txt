@@ -1,0 +1,115 @@
+<div class="container">
+    	<!--CARROUSSEL-->
+                    
+                    <div id="carousselImagens1" class="carousel slide" data-ride="carousel">
+                    	<!-- Imagens do caroussel-->
+                        
+                        	<!--SELETOR DE IMAGENS-->
+                            <ol class="carousel-indicators">
+                            
+                            	<li data-target="#carousselImagens1" data-slide-to="0" class="active"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="1"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="2"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="3"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="4"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="5"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="6"></li>
+                                <li data-target="#carousselImagens1" data-slide-to="7"></li>
+                             
+                            </ol>
+                            
+                            
+                        <div class="carousel-inner">
+                        	
+                          	<!-- Imagem 1 -->
+                            
+                        	<div class="carousel-item active">
+                            
+                            	<img src="imagens/bntp_professor_carlos.fw.png" class="img-fluid d-block"/>
+                                
+                            </div>
+                            
+                            <!-- Imagem 2 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_aulas_de_informatica.fw.png" class="img-fluid d-block"/>
+                                
+                            </div>
+                            
+                            <!-- Imagem 3 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_cartoes.fw.png" class="img-fluid d-block"/>
+                                                                
+                            </div>
+                            
+                            <!-- Imagem 4 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_livros.fw.png" class="img-fluid d-block"/>
+                                
+                            </div>
+                            
+                            <!-- Imagem 5 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_manutencaopc.fw.png" class="img-fluid d-block"/>
+                                                                                                
+                            </div>
+                            
+                            <!-- Imagem 6 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_monografias.fw.png" class="img-fluid d-block"/>
+                                                                                                
+                            </div>
+                            
+                            <!-- Imagem 7 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_portais.fw.png" class="img-fluid d-block"/>
+                               
+                            </div>
+                            
+                            <!-- Imagem 7 -->
+                            
+                        	<div class="carousel-item">
+                            
+                            	<img src="imagens/bntp_contatos.fw.png" class="img-fluid d-block"/>
+                               
+                            </div>
+                        
+                        
+                            <!--personalisando o carousel  *************  BOTÕES DE NAVEGAÇÃO-->
+                            
+                                           
+                        	<a class="carousel-control-prev" href="carousselImagens1" role="button" data-slide="prev">
+                            
+                            	<span class="carousel-control-prev-icon"></span>
+                                
+                                <span class="sr-only">Voltar</span>
+                            
+                            </a>
+                            
+                            <a class="carousel-control-next" href="carousselImagens1" role="button" data-slide="next">
+                            
+                            	<span class="carousel-control-next-icon"></span>
+                                
+                                <span class="sr-only">Avançar</span>
+                            
+                            </a>
+                        </div>
+                    
+                    	
+                    </div>
+                    
+</div>
+                    
+                    
+                     <!--FIM CARROUSSEL-->

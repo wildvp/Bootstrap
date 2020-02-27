@@ -1,0 +1,6 @@
+         <!--Jquery primeiro, depois propper, depois bootstrap-->       	            
+  
+	
+      	<script src="js/jquery-3.2.1.js"></script>
+        <script src="popper-core-master/src/popper.js/dist/umd/pooper.js"> </script>
+		<script src="bootstrap-4.1.3-dist/js/bootstrap.js"></script>  

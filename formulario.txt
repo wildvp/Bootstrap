@@ -1,0 +1,132 @@
+<!-- FORMULARIO EMAIL -->
+
+	<div class="container">
+    	
+        <div class="row">
+        
+        	<div class="col-12 text-center my-5">
+            
+            	<h1 class="display-4"><span class="formulario">Sugestões, críticas ou elogios</span><br /> 
+           	  Sua mensagem é muito importante</h1>
+            
+            </div>
+                
+            
+        </div>
+        
+        <div class="row justify-content-center mb-5">
+        
+        	<div class="col-sm-12 col-md-10 col-lg-8">
+            
+            	<form name="mensagem" action="send_mail.php" method="post">
+                
+                	                  
+                    <div class="form-row">
+                    	<!--
+                    	<div class="form-group col-sm-12">
+                    
+                    		<label for="inputNome">Nome</label>
+                            <input type="text" class="form-control" id="inputNome" placeholder="Informe o seu nome" />
+                            
+                        </div>
+                        -->
+                        
+                        <div class="col-sm-12">
+      							<label for="nome">Nome</label>
+      							<input type="text" name="nome" class="form-control is-invalid" id="nome" placeholder="Informe seu nome" required>
+      
+      						<div class="invalid-feedback">
+        							Por favor, informe o seu nome.
+      						</div>
+                                
+    					</div>
+                        
+                    </div>
+                    
+                    <div class="form-row">
+                        
+                                            
+                    		<div class="col-md-6 mb-3">
+      							<label for="email">E-mail</label>
+      							<input type="text" name="email" class="form-control is-invalid" id="email" onblur="validacaoEmail(mensagem.email)" placeholder="Informe o e-mail" required>
+      
+      							<div class="invalid-feedback">
+        							Por favor, informe o e-mail.
+      							</div>
+                                
+    						</div>
+                        
+                        	
+                            
+                            <div class="col-md-6 mb-3">
+      							<label for="assunto">Assunto</label>
+      							<input type="text" name="assunto" class="form-control is-invalid" id="assunto" placeholder="Informe o assunto" required>
+      
+      							<div class="invalid-feedback">
+        							Por favor, informe o assunto.
+      							</div>
+                                
+    						</div>
+                            
+                            
+                            
+                            
+                            
+                        
+                        <!--
+                        
+                        <div class="form-group col-sm-6">
+                    
+                    		<label for="inputAssunto">Assunto</label>
+                            <input type="text" class="form-control" id="inputEmail" placeholder="Informe o seu endereço de e-mail" />
+                            
+                        </div>
+                        
+                        -->
+                    
+                    </div>
+                    
+                    <div class="form-row">
+                    
+                    	                       
+                        <div class="form-group col-sm-12">
+                    
+                    		<!-- 
+                            <label for="inputMensagem">Mensagem</label>
+                            <input type="textarea" cols="80" rows="40" class="form-control" id="inputMensagem" placeholder="Digite sua mensagem" />
+                            -->
+                            
+                            <div class="mb-3">
+    							<label for="msg">Mensagem</label>
+    							<textarea class="form-control is-invalid" name="msg" id="msg" placeholder="Escreva a sua mensagem (obrigatório)" required></textarea>
+    							<div class="invalid-feedback">
+      								Escreva a sua mensagem (obrigatório)
+    							</div>
+                            
+                        </div>
+                        
+                    </div>
+                    
+                    <button type="submit" class="btn btn-pymary">Enviar...</button>
+                    
+                
+                </form>
+            
+            
+            </div>
+           
+        </div>
+    
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+<!-- FIM FORMULARIO E-MAIL -->	
