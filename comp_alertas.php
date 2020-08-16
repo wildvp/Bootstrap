@@ -9,6 +9,8 @@
          <!--ALERTAS-->
          
          <!-- ***CÓDIGOS DE ALERTA DENTRO DO CONTAINER***** -->
+         
+         <!-- DOCUMENTAÇÃO: https://getbootstrap.com.br/docs/4.1/components/alerts/ -->
         
         <div class="container">
         	<div class="row justify-content-center">
